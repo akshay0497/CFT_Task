@@ -1,5 +1,3 @@
-# akshay0497-cft_task
-
 This is a React + TypeScript project using Vite and Tailwind CSS.
 
 ## 📂 Project Structure
@@ -55,13 +53,10 @@ The app should now be running on `http://localhost:5173/` (default Vite port).
 - Zustand (State Management)
 
 ## 📸 Screenshot
-![Project Screenshot](screenshot.png)
-*(Replace `screenshot.png` with an actual screenshot of your project.)*
+![Project Screenshot](images/CFT_Task_1.png)
+![Project Screenshot](images/CFT_Task_2.png)
+![Project Screenshot](images/CFT_Task_3.png)
+![Project Screenshot](images/CFT_Task_4.png)
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
-
-Feel free to update the repository link and screenshot as needed!
-
